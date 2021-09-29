@@ -1,5 +1,7 @@
 # React Sourcecode Analyze
 
+> React version: 17.0.3
+
 ## Component
 
 > packages/react/src/ReactBaseClasses.js
